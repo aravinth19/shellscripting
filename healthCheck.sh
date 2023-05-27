@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 #Configuration
 THRESHOLD_CPU=80
 THRESHOLD_MEM=80
