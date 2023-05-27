@@ -15,6 +15,7 @@ vitals_passed=true
 #Check CPU Usage of EC2 Instance
 top
 #Check Memory Usage of EC2 Instance
+echo "Check Memory Usage of EC2 Instance"
 free
 #Check Disk Space Usage of EC2 Instance
 #Check Status of Bitnami Service
